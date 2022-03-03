@@ -62,7 +62,6 @@
     padding-right: 52px;
 }
 .common-btn span{
-    /* border-bottom: 0.5px solid rgba(255,255,255, .4); */
     position: relative;
     display: block;
 }
@@ -78,6 +77,9 @@
 }
 .common-btn.common-btn--simple span:after{
     background-color: #e5e5e5;
+}
+.for_link{
+    color: rgb(143, 3, 3);
 }
 
 .first-section{
@@ -265,6 +267,32 @@
 .text-button-section .common-btn{
     margin-top: 30px;
     text-transform: uppercase;
+}
+.text-button-section--two-buttons{
+    padding-bottom: 30px;
+}
+
+
+.twelvth-section{
+    padding-top: 32px;
+    text-align: center;
+    background: url('/img/red-bg.png') no-repeat top 0 left 0;
+    padding-bottom: 32px;
+}
+.twelvth-section img{
+    margin-bottom: 30px;
+}
+.twelvth-section p{
+    width: 540px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 21px;
+}
+
+.footer{
+    padding-top: 40px;
+    padding-bottom: 30px;
+    background: #08050F;
 }
 
 
