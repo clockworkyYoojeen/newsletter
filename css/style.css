@@ -1,4 +1,4 @@
-@import url(//db.onlinewebfonts.com/c/e3e794f35cf6e4475f17d8f7a91df0a5?family=Tiamat+Condensed+SC+Regular);
+/* @import url(//db.onlinewebfonts.com/c/e3e794f35cf6e4475f17d8f7a91df0a5?family=Tiamat+Condensed+SC+Regular); */
 
 .wrapper{
     width: 600px;
@@ -11,7 +11,7 @@
 .common-header{
     text-align: center;
     font-weight: bold;
-    font-family: "Tiamat Condensed SC Regular";
+    font-family: "Tiamat Expanded";
     width: 540px;
     margin-left: auto;
     margin-right: auto;
@@ -44,7 +44,7 @@
 .common-btn{
     background-color: #da291c;
     color: #fff;
-    font-family: 'Tiamat Condensed SC Regular';
+    font-family: 'Tiamat Expanded';
     font-size: 15px;
     font-weight: 700;
     border: none;
