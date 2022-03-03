@@ -79,7 +79,7 @@
     background-color: #e5e5e5;
 }
 .for_link{
-    color: rgb(143, 3, 3);
+    color: #BA0020;
 }
 
 .first-section{
@@ -270,6 +270,7 @@
 }
 .text-button-section--two-buttons{
     padding-bottom: 30px;
+    border-bottom: 0;
 }
 
 
@@ -290,10 +291,62 @@
 }
 
 .footer{
-    padding-top: 40px;
-    padding-bottom: 30px;
+    padding: 40px 30px 30px 30px;
     background: #08050F;
 }
+.footer__info-container{
+    display: flex;
+    margin-top: 20px;
+}
+.footer-left{
+    flex-basis: 288px;
+    width: 288px;
+    font-family: 'PT Sans';
+}
+.footer-left h3{
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.footer-left .for_link{
+    font-size: 17px;
+    font-weight: 700;
+}
+.covid{
+    margin-top: 15px;
+    font-size: 14px;
+    line-height: 18px;
+}
+.covid p{
+    color: #fff;
+    margin-bottom: 4px;
+}
+.covid .for_link{
+    font-size: 14px;
+}
+.rights{
+    margin-top: 16px;
+    width: 246px;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 13px;
+    color: #fff;
+}
+.footer-right{
+    flex-basis: 252px;
+    width: 252px;
+}
+.footer-right__logo{
+    text-align: right;
+}
+.footer-right__social{
+        text-align: right;
+        margin-top: 40px;
+}
+.footer-right__social img{
+    margin-left: 16px;
+}
+
 
 
 
