@@ -243,12 +243,12 @@
     margin-right: auto;
 }
 
-.seventh-section, .nineth-section, .eleventh-section{
+/* .seventh-section, .nineth-section, .eleventh-section{
     padding-left: 30px;
     padding-right: 30px;
-}
+} */
 .player-info{
-    padding-top: 30px;
+    padding: 30px 30px 30px;
     display: flex;
     align-items: start;
     justify-content: space-between;
