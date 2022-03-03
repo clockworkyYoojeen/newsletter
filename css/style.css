@@ -122,7 +122,7 @@
     margin-bottom: 20px;
 }
 .second-section--text-container{
-    padding-top: 50px;
+    padding-top: 32px;
     background: url('/img/section-bg-top.png') no-repeat top 0px center, url('/img/section-bg-bottom.png') no-repeat bottom -2px center;
     position: relative;
     z-index: 5;
