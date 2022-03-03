@@ -78,8 +78,9 @@
 .common-btn.common-btn--simple span:after{
     background-color: #e5e5e5;
 }
-.for_link{
+.for_link a{
     color: #BA0020;
+    text-decoration: none;
 }
 
 .first-section{
@@ -319,7 +320,7 @@
 }
 .covid p{
     color: #fff;
-    margin-bottom: 4px;
+    margin-bottom: 3px;
 }
 .covid .for_link{
     font-size: 14px;
